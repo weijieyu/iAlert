@@ -1,5 +1,7 @@
 ﻿# iAlert
 
+![image](https://github.com/yujieyu7/iAlert/blob/master/eg.png)
+
 移动端ios8风格弹窗
 
 最近在做一个微信页面里面有用到弹窗，写完觉得应用场景很广，所以提炼出来以后复用
